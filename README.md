@@ -3,4 +3,4 @@
 [ lsoy ]
 
 
-### Simple and quick way to search for highlighted text on YouTube via right-click context menu or from popup. YouTube Helper
+#### Simple and quick way to search for highlighted text on YouTube via right-click context menu or from popup. YouTube Helper
