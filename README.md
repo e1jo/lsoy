@@ -1,2 +1,2 @@
-# lsoy
-Lazy-Search-on-YouTube
+# Lazy-Search-on-YouTube
+(lsoy)
