@@ -21,3 +21,6 @@
 
 ### Note:
   Please report bugs! I welcome any feedback
+
+### in case you want to say thank you
+https://buymeacoffee.com/e1white
